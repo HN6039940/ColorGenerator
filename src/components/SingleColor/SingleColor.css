@@ -1,0 +1,20 @@
+.colorList-article {
+  width: 100%;
+  height: 100px;
+  padding: 10px;
+  transition: all 0.3s ease-in-out;
+}
+
+.colorList-article:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}
+
+.color-weight,
+.color-code-hex {
+  font-weight: bold;
+}
+
+.tint {
+  color: #fff;
+}
