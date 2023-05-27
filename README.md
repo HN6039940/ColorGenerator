@@ -25,3 +25,8 @@
 ## お問い合わせ
 
 バグがある場合は、issue をオープンしたり、プルリクエストを送信したりしてください。
+
+## Refarence
+
+https://fkhadra.github.io/react-toastify/introduction/
+https://github.com/noeldelgado/Values.js/
